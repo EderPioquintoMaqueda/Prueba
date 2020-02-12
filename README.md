@@ -1,2 +1,2 @@
 # practica1_fdp
-Practica 1. Fundamentos de Programación 
+Practica 1. Fundamentos de Programación.
